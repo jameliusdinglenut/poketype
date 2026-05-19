@@ -31,7 +31,6 @@ Fearow,,Normal,Flying
 Ekans,,Poison,
 Arbok,,Poison,
 Pikachu,,Electric,
-Pikachu,Partner Pikachu,Electric,
 Raichu,,Electric,
 Raichu,Alolan Raichu,Electric,Psychic
 Sandshrew,,Ground,
