@@ -578,9 +578,9 @@ Dusknoir,,Ghost,
 Froslass,,Ice,Ghost
 Rotom,,Electric,Ghost
 Rotom,Rotom Heat,Electric,Fire
-Rotom,Rotom Frost,Electric,Water
+Rotom,Rotom Wash,Electric,Water
 Rotom,Rotom Frost,Electric,Ice
-Rotom,Rotom Mow,Electric,Flying
+Rotom,Rotom Fan,Electric,Flying
 Rotom,Rotom Mow,Electric,Grass
 Uxie,,Psychic,
 Mesprit,,Psychic,
