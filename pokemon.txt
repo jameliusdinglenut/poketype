@@ -37,10 +37,9 @@ Sandshrew,,Ground,
 Sandshrew,Alolan Sandshrew,Ice,Steel
 Sandslash,,Ground,
 Sandslash,Alolan Sandslash,Ice,Steel
-Nidoran♀,,Poison,
 Nidorina,,Poison,
 Nidoqueen,,Poison,Ground
-Nidoran♂,,Poison,
+Nidoran,,Poison,
 Nidorino,,Poison,
 Nidoking,,Poison,Ground
 Clefairy,,Fairy,
@@ -177,7 +176,6 @@ Gyarados,Mega Gyarados,Water,Dark
 Lapras,,Water,Ice
 Ditto,,Normal,
 Eevee,,Normal,
-Eevee,Partner Eevee,Normal,
 Vaporeon,,Water,
 Jolteon,,Electric,
 Flareon,,Fire,
@@ -476,10 +474,7 @@ Groudon,Primal Groudon,Ground,Fire
 Rayquaza,,Dragon,Flying
 Rayquaza,Mega Rayquaza,Dragon,Flying
 Jirachi,,Steel,Psychic
-Deoxys,Normal Forme,Psychic,
-Deoxys,Attack Forme,Psychic,
-Deoxys,Defense Forme,Psychic,
-Deoxys,Speed Forme,Psychic,
+Deoxys,,Psychic,
 Turtwig,,Grass,
 Grotle,,Grass,
 Torterra,,Grass,Ground
@@ -508,9 +503,9 @@ Bastiodon,,Rock,Steel
 Burmy,Plant Cloak,Bug,
 Burmy,Sandy Cloak,Bug,
 Burmy,Trash Cloak,Bug,
-Wormadam,Plant Cloak,Bug,Grass
-Wormadam,Sandy Cloak,Bug,Ground
-Wormadam,Trash Cloak,Bug,Steel
+Wormadam,Plant,Bug,Grass
+Wormadam,Sandy,Bug,Ground
+Wormadam,Trash,Bug,Steel
 Mothim,,Bug,Flying
 Combee,,Bug,Flying
 Vespiquen,,Bug,Flying
@@ -582,28 +577,27 @@ Probopass,,Rock,Steel
 Dusknoir,,Ghost,
 Froslass,,Ice,Ghost
 Rotom,,Electric,Ghost
-Rotom,Heat Rotom,Electric,Fire
-Rotom,Wash Rotom,Electric,Water
-Rotom,Frost Rotom,Electric,Ice
-Rotom,Fan Rotom,Electric,Flying
-Rotom,Mow Rotom,Electric,Grass
+Rotom,Rotom Heat,Electric,Fire
+Rotom,Rotom Frost,Electric,Water
+Rotom,Rotom Frost,Electric,Ice
+Rotom,Rotom Mow,Electric,Flying
+Rotom,Rotom Mow,Electric,Grass
 Uxie,,Psychic,
 Mesprit,,Psychic,
 Azelf,,Psychic,
 Dialga,,Steel,Dragon
-Dialga,Origin Forme,Steel,Dragon
+Dialga,Origin,Steel,Dragon
 Palkia,,Water,Dragon
-Palkia,Origin Forme,Water,Dragon
+Palkia,Origin,Water,Dragon
 Heatran,,Fire,Steel
 Regigigas,,Normal,
-Giratina,Altered Forme,Ghost,Dragon
-Giratina,Origin Forme,Ghost,Dragon
+Giratina,,Ghost,Dragon
 Cresselia,,Psychic,
 Phione,,Water,
 Manaphy,,Water,
 Darkrai,,Dark,
-Shaymin,Land Forme,Grass,
-Shaymin,Sky Forme,Grass,Flying
+Shaymin,Land,Grass,
+Shaymin,Sky,Grass,Flying
 Arceus,,Normal,
 Victini,,Psychic,Fire
 Snivy,,Grass,
@@ -664,17 +658,15 @@ Whimsicott,,Grass,Fairy
 Petilil,,Grass,
 Lilligant,,Grass,
 Lilligant,Hisuian Lilligant,Grass,Fighting
-Basculin,Red-Striped Form,Water,
-Basculin,Blue-Striped Form,Water,
-Basculin,White-Striped Form,Water,
+Basculin,,Water,
 Sandile,,Ground,Dark
 Krokorok,,Ground,Dark
 Krookodile,,Ground,Dark
 Darumaka,,Fire,
 Darumaka,Galarian Darumaka,Ice,
-Darmanitan,Standard Mode,Fire,
+Darmanitan,,Fire,
 Darmanitan,Zen Mode,Fire,Psychic
-Darmanitan,Galarian Standard Mode,Ice,
+Darmanitan,Galarian,Ice,
 Darmanitan,Galarian Zen Mode,Ice,Fire
 Maractus,,Grass,
 Dwebble,,Bug,Rock
@@ -766,21 +758,17 @@ Volcarona,,Bug,Fire
 Cobalion,,Steel,Fighting
 Terrakion,,Rock,Fighting
 Virizion,,Grass,Fighting
-Tornadus,Incarnate Forme,Flying,
-Tornadus,Therian Forme,Flying,
-Thundurus,Incarnate Forme,Electric,Flying
-Thundurus,Therian Forme,Electric,Flying
+Tornadus,,Flying,
+Thundurus,,Electric,Flying
 Reshiram,,Dragon,Fire
 Zekrom,,Dragon,Electric
-Landorus,Incarnate Forme,Ground,Flying
-Landorus,Therian Forme,Ground,Flying
+Landorus,,Ground,Flying
 Kyurem,,Dragon,Ice
-Kyurem,White Kyurem,Dragon,Ice
-Kyurem,Black Kyurem,Dragon,Ice
-Keldeo,Ordinary Form,Water,Fighting
-Keldeo,Resolute Form,Water,Fighting
-Meloetta,Aria Forme,Normal,Psychic
-Meloetta,Pirouette Forme,Normal,Fighting
+Kyurem,White,Dragon,Ice
+Kyurem,Black,Dragon,Ice
+Keldeo,,Water,Fighting
+Meloetta,Aria,Normal,Psychic
+Meloetta,Pirouette,Normal,Fighting
 Genesect,,Bug,Steel
 Chespin,,Grass,
 Quilladin,,Grass,
@@ -791,7 +779,6 @@ Delphox,,Fire,Psychic
 Froakie,,Water,
 Frogadier,,Water,
 Greninja,,Water,Dark
-Greninja,Ash-Greninja,Water,Dark
 Bunnelby,,Normal,
 Diggersby,,Normal,Ground
 Fletchling,,Normal,Flying
@@ -811,12 +798,10 @@ Pancham,,Fighting,
 Pangoro,,Fighting,Dark
 Furfrou,,Normal,
 Espurr,,Psychic,
-Meowstic,Male,Psychic,
-Meowstic,Female,Psychic,
+Meowstic,,Psychic,
 Honedge,,Steel,Ghost
 Doublade,,Steel,Ghost
-Aegislash,Shield Forme,Steel,Ghost
-Aegislash,Blade Forme,Steel,Ghost
+Aegislash,,Steel,Ghost
 Spritzee,,Fairy,
 Aromatisse,,Fairy,
 Swirlix,,Fairy,
@@ -849,14 +834,8 @@ Goodra,Hisuian Goodra,Steel,Dragon
 Klefki,,Steel,Fairy
 Phantump,,Ghost,Grass
 Trevenant,,Ghost,Grass
-Pumpkaboo,Average Size,Ghost,Grass
-Pumpkaboo,Small Size,Ghost,Grass
-Pumpkaboo,Large Size,Ghost,Grass
-Pumpkaboo,Super Size,Ghost,Grass
-Gourgeist,Average Size,Ghost,Grass
-Gourgeist,Small Size,Ghost,Grass
-Gourgeist,Large Size,Ghost,Grass
-Gourgeist,Super Size,Ghost,Grass
+Pumpkaboo,,Ghost,Grass
+Gourgeist,,Ghost,Grass
 Bergmite,,Ice,
 Avalugg,,Ice,
 Avalugg,Hisuian Avalugg,Ice,Rock
@@ -864,9 +843,7 @@ Noibat,,Flying,Dragon
 Noivern,,Flying,Dragon
 Xerneas,,Fairy,
 Yveltal,,Dark,Flying
-Zygarde,50% Forme,Dragon,Ground
-Zygarde,10% Forme,Dragon,Ground
-Zygarde,Complete Forme,Dragon,Ground
+Zygarde,,Dragon,Ground
 Diancie,,Rock,Fairy
 Diancie,Mega Diancie,Rock,Fairy
 Hoopa,Hoopa Confined,Psychic,Ghost
@@ -892,19 +869,15 @@ Charjabug,,Bug,Electric
 Vikavolt,,Bug,Electric
 Crabrawler,,Fighting,
 Crabominable,,Fighting,Ice
-Oricorio,Baile Style,Fire,Flying
-Oricorio,Pom-Pom Style,Electric,Flying
-Oricorio,Pa'u Style,Psychic,Flying
-Oricorio,Sensu Style,Ghost,Flying
+Oricorio,Baile,Fire,Flying
+Oricorio,Pom-Pom,Electric,Flying
+Oricorio,Pa'u,Psychic,Flying
+Oricorio,Sensu,Ghost,Flying
 Cutiefly,,Bug,Fairy
 Ribombee,,Bug,Fairy
 Rockruff,,Rock,
-Rockruff,Own Tempo Rockruff,Rock,
-Lycanroc,Midday Form,Rock,
-Lycanroc,Midnight Form,Rock,
-Lycanroc,Dusk Form,Rock,
-Wishiwashi,Solo Form,Water,
-Wishiwashi,School Form,Water,
+Lycanroc,,Rock,
+Wishiwashi,,Water,
 Mareanie,,Poison,Water
 Toxapex,,Poison,Water
 Mudbray,,Ground,
@@ -932,8 +905,7 @@ Palossand,,Ghost,Ground
 Pyukumuku,,Water,
 Type: Null,,Normal,
 Silvally,,Normal,
-Minior,Meteor Form,Rock,Flying
-Minior,Core Form,Rock,Flying
+Minior,,Rock,Flying
 Komala,,Normal,
 Turtonator,,Fire,Dragon
 Togedemaru,,Electric,Steel
@@ -1011,8 +983,8 @@ Cramorant,,Flying,Water
 Arrokuda,,Water,
 Barraskewda,,Water,
 Toxel,,Electric,Poison
-Toxtricity,Amped Form,Electric,Poison
-Toxtricity,Low Key Form,Electric,Poison
+Toxtricity,,Electric,Poison
+Toxtricity,Low Key,Electric,Poison
 Sizzlipede,,Fire,Bug
 Centiskorch,,Fire,Bug
 Clobbopus,,Fighting,
@@ -1038,12 +1010,9 @@ Pincurchin,,Electric,
 Snom,,Ice,Bug
 Frosmoth,,Ice,Bug
 Stonjourner,,Rock,
-Eiscue,Ice Face,Ice,
-Eiscue,Noice Face,Ice,
-Indeedee,Male,Psychic,Normal
-Indeedee,Female,Psychic,Normal
-Morpeko,Full Belly Mode,Electric,Dark
-Morpeko,Hangry Mode,Electric,Dark
+Eiscue,,Ice,
+Indeedee,,Psychic,Normal
+Morpeko,,Electric,Dark
 Cufant,,Steel,
 Copperajah,,Steel,
 Dracozolt,,Electric,Dragon
@@ -1054,15 +1023,14 @@ Duraludon,,Steel,Dragon
 Dreepy,,Dragon,Ghost
 Drakloak,,Dragon,Ghost
 Dragapult,,Dragon,Ghost
-Zacian,Hero of Many Battles,Fairy,
-Zacian,Crowned Sword,Fairy,Steel
-Zamazenta,Hero of Many Battles,Fighting,
-Zamazenta,Crowned Shield,Fighting,Steel
+Zacian,,Fairy,
+Zacian,Crowned,Fairy,Steel
+Zamazenta,,Fighting,
+Zamazenta,Crowned,Fighting,Steel
 Eternatus,,Poison,Dragon
-Eternatus,Eternamax,Poison,Dragon
 Kubfu,,Fighting,
-Urshifu,Single Strike Style,Fighting,Dark
-Urshifu,Rapid Strike Style,Fighting,Water
+Urshifu,Single Strike,Fighting,Dark
+Urshifu,Rapid Strike,Fighting,Water
 Zarude,,Dark,Grass
 Regieleki,,Electric,
 Regidrago,,Dragon,
@@ -1075,12 +1043,10 @@ Wyrdeer,,Normal,Psychic
 Kleavor,,Bug,Rock
 Ursaluna,,Ground,Normal
 Ursaluna,Bloodmoon,Ground,Normal
-Basculegion,Male,Water,Ghost
-Basculegion,Female,Water,Ghost
+Basculegion,,Water,Ghost
 Sneasler,,Fighting,Poison
 Overqwil,,Dark,Poison
-Enamorus,Incarnate Forme,Fairy,Flying
-Enamorus,Therian Forme,Fairy,Flying
+Enamorus,,Fairy,Flying
 Sprigatito,,Grass,
 Floragato,,Grass,
 Meowscarada,,Grass,Dark
@@ -1091,8 +1057,7 @@ Quaxly,,Water,
 Quaxwell,,Water,
 Quaquaval,,Water,Fighting
 Lechonk,,Normal,
-Oinkologne,Male,Normal,
-Oinkologne,Female,Normal,
+Oinkologne,,Normal,
 Tarountula,,Bug,
 Spidops,,Bug,
 Nymble,,Bug,
@@ -1101,17 +1066,13 @@ Pawmi,,Electric,
 Pawmo,,Electric,Fighting
 Pawmot,,Electric,Fighting
 Tandemaus,,Normal,
-Maushold,Family of Four,Normal,
-Maushold,Family of Three,Normal,
+Maushold,,Normal,
 Fidough,,Fairy,
 Dachsbun,,Fairy,
 Smoliv,,Grass,Normal
 Dolliv,,Grass,Normal
 Arboliva,,Grass,Normal
-Squawkabilly,Green Plumage,Normal,Flying
-Squawkabilly,Blue Plumage,Normal,Flying
-Squawkabilly,Yellow Plumage,Normal,Flying
-Squawkabilly,White Plumage,Normal,Flying
+Squawkabilly,,Normal,Flying
 Nacli,,Rock,
 Naclstack,,Rock,
 Garganacl,,Rock,
@@ -1144,8 +1105,8 @@ Wiglett,,Water,
 Wugtrio,,Water,
 Bombirdier,,Flying,Dark
 Finizen,,Water,
-Palafin,Zero Form,Water,
-Palafin,Hero Form,Water,
+Palafin,,Water,
+Palafin,Hero,Water,
 Varoom,,Steel,Poison
 Revavroom,,Steel,Poison
 Cyclizar,,Dragon,Normal
@@ -1159,14 +1120,11 @@ Cetoddle,,Ice,
 Cetitan,,Ice,
 Veluza,,Water,Psychic
 Dondozo,,Water,
-Tatsugiri,Curly Form,Dragon,Water
-Tatsugiri,Droopy Form,Dragon,Water
-Tatsugiri,Stretchy Form,Dragon,Water
+Tatsugiri,,Dragon,Water
 Annihilape,,Fighting,Ghost
 Clodsire,,Poison,Ground
 Farigiraf,,Normal,Psychic
-Dudunsparce,Two-Segment Form,Normal,
-Dudunsparce,Three-Segment Form,Normal,
+Dudunsparce,,Normal,
 Kingambit,,Dark,Steel
 Great Tusk,,Ground,Fighting
 Scream Tail,,Fairy,Psychic
@@ -1183,8 +1141,7 @@ Iron Thorns,,Rock,Electric
 Frigibax,,Dragon,Ice
 Arctibax,,Dragon,Ice
 Baxcalibur,,Dragon,Ice
-Gimmighoul,Chest Form,Ghost,
-Gimmighoul,Roaming Form,Ghost,
+Gimmighoul,,Ghost,
 Gholdengo,,Steel,Ghost
 Wo-Chien,,Dark,Grass
 Chien-Pao,,Dark,Ice
@@ -1202,17 +1159,15 @@ Sinistcha,,Grass,Ghost
 Okidogi,,Poison,Fighting
 Munkidori,,Poison,Psychic
 Fezandipiti,,Poison,Fairy
-Ogerpon,Teal Mask,Grass,
-Ogerpon,Wellspring Mask,Grass,Water
-Ogerpon,Hearthflame Mask,Grass,Fire
-Ogerpon,Cornerstone Mask,Grass,Rock
+Ogerpon,,Grass,
+Ogerpon,Wellspring,Grass,Water
+Ogerpon,Hearthflame,Grass,Fire
+Ogerpon,Cornerstone,Grass,Rock
 Archaludon,,Steel,Dragon
 Hydrapple,,Grass,Dragon
 Gouging Fire,,Fire,Dragon
 Raging Bolt,,Electric,Dragon
 Iron Boulder,,Rock,Psychic
 Iron Crown,,Steel,Psychic
-Terapagos,Normal Form,Normal,
-Terapagos,Terastal Form,Normal,
-Terapagos,Stellar Form,Normal,
+Terapagos,,Normal,
 Pecharunt,,Poison,Ghost
