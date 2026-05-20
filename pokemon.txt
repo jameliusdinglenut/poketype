@@ -665,9 +665,9 @@ Krookodile,,Ground,Dark
 Darumaka,,Fire,
 Darumaka,Galarian Darumaka,Ice,
 Darmanitan,,Fire,
-Darmanitan,Zen Mode,Fire,Psychic
+Darmanitan,Zen,Fire,Psychic
 Darmanitan,Galarian,Ice,
-Darmanitan,Galarian Zen Mode,Ice,Fire
+Darmanitan,Galarian Zen,Ice,Fire
 Maractus,,Grass,
 Dwebble,,Bug,Rock
 Crustle,,Bug,Rock
