@@ -984,7 +984,6 @@ Arrokuda,,Water,
 Barraskewda,,Water,
 Toxel,,Electric,Poison
 Toxtricity,,Electric,Poison
-Toxtricity,Low Key,Electric,Poison
 Sizzlipede,,Fire,Bug
 Centiskorch,,Fire,Bug
 Clobbopus,,Fighting,
