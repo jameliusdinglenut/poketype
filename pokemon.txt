@@ -33,6 +33,8 @@ Arbok,,Poison,
 Pikachu,,Electric,
 Raichu,,Electric,
 Raichu,Alolan Raichu,Electric,Psychic
+Raichu,Mega Raichu X, Electric,
+Raichu,Mega Raichu Y, Electric,
 Sandshrew,,Ground,
 Sandshrew,Alolan Sandshrew,Ice,Steel
 Sandslash,,Ground,
@@ -438,8 +440,10 @@ Duskull,,Ghost,
 Dusclops,,Ghost,
 Tropius,,Grass,Flying
 Chimecho,,Psychic,
+Chimecho,Mega Chimecho,Psychic,Steel
 Absol,,Dark,
 Absol,Mega Absol,Dark,
+Absol,Mega Absol Z,Dark,Ghost
 Wynaut,,Psychic,
 Snorunt,,Ice,
 Glalie,,Ice,
@@ -487,6 +491,7 @@ Empoleon,,Water,Steel
 Starly,,Normal,Flying
 Staravia,,Normal,Flying
 Staraptor,,Normal,Flying
+Staraptor,Mega Staraptor,Fighting,Flying
 Bidoof,,Normal,
 Bibarel,,Normal,Water
 Kricketot,,Bug,
@@ -540,10 +545,12 @@ Gible,,Dragon,Ground
 Gabite,,Dragon,Ground
 Garchomp,,Dragon,Ground
 Garchomp,Mega Garchomp,Dragon,Ground
+Garchomp,Mega Garchomp Z,Dragon,
 Munchlax,,Normal,
 Riolu,,Fighting,
 Lucario,,Fighting,Steel
 Lucario,Mega Lucario,Fighting,Steel
+Lucario,Mega Lucario Z,Fighting,Steel
 Hippopotas,,Ground,
 Hippowdon,,Ground,
 Skorupi,,Poison,Bug
@@ -590,12 +597,14 @@ Dialga,Origin,Steel,Dragon
 Palkia,,Water,Dragon
 Palkia,Origin,Water,Dragon
 Heatran,,Fire,Steel
+Heatran,Mega Heatran,Fire,Steel
 Regigigas,,Normal,
 Giratina,,Ghost,Dragon
 Cresselia,,Psychic,
 Phione,,Water,
 Manaphy,,Water,
 Darkrai,,Dark,
+Darkrai,Mega Darkrai,Dark,
 Shaymin,Land,Grass,
 Shaymin,Sky,Grass,Flying
 Arceus,,Normal,
@@ -773,12 +782,15 @@ Genesect,,Bug,Steel
 Chespin,,Grass,
 Quilladin,,Grass,
 Chesnaught,,Grass,Fighting
+Chesnaught,Mega Chesnaught,Grass,Fighting
 Fennekin,,Fire,
 Braixen,,Fire,
 Delphox,,Fire,Psychic
+Delphox,Mega Delphox,Fire,Psychic
 Froakie,,Water,
 Frogadier,,Water,
 Greninja,,Water,Dark
+Greninja,Mega Greninja,Water,Dark
 Bunnelby,,Normal,
 Diggersby,,Normal,Ground
 Fletchling,,Normal,Flying
@@ -799,6 +811,7 @@ Pangoro,,Fighting,Dark
 Furfrou,,Normal,
 Espurr,,Psychic,
 Meowstic,,Psychic,
+Meowstic,Mega Meowstic,Psychic,
 Honedge,,Steel,Ghost
 Doublade,,Steel,Ghost
 Aegislash,,Steel,Ghost
@@ -869,6 +882,7 @@ Charjabug,,Bug,Electric
 Vikavolt,,Bug,Electric
 Crabrawler,,Fighting,
 Crabominable,,Fighting,Ice
+Crabominable,Mega Crabominable,Fighting,Ice
 Oricorio,Baile,Fire,Flying
 Oricorio,Pom-Pom,Electric,Flying
 Oricorio,Pa'u,Psychic,Flying
@@ -900,6 +914,7 @@ Oranguru,,Normal,Psychic
 Passimian,,Fighting,
 Wimpod,,Bug,Water
 Golisopod,,Bug,Water
+Golisopod,Mega Golisopod,Bug,Steel
 Sandygast,,Ghost,Ground
 Palossand,,Ghost,Ground
 Pyukumuku,,Water,
@@ -936,12 +951,14 @@ Necrozma,Dusk Mane Necrozma,Psychic,Steel
 Necrozma,Dawn Wings Necrozma,Psychic,Ghost
 Necrozma,Ultra Necrozma,Psychic,Dragon
 Magearna,,Steel,Fairy
+Magearna,Mega Magearna,Steel,Fairy
 Marshadow,,Fighting,Ghost
 Poipole,,Poison,
 Naganadel,,Poison,Dragon
 Stakataka,,Rock,Steel
 Blacephalon,,Fire,Ghost
 Zeraora,,Electric,
+zeraora,Mega Zeraora,Electric,
 Meltan,,Steel,
 Melmetal,,Steel,
 Grookey,,Grass,
@@ -1093,6 +1110,7 @@ Toedscruel,,Ground,Grass
 Klawf,,Rock,
 Capsakid,,Grass,
 Scovillain,,Grass,Fire
+Scovillain,Mega Scovillain,Grass,Fire
 Rellor,,Bug,
 Rabsca,,Bug,Psychic
 Flittle,,Psychic,
@@ -1112,6 +1130,7 @@ Cyclizar,,Dragon,Normal
 Orthworm,,Steel,
 Glimmet,,Rock,Poison
 Glimmora,,Rock,Poison
+Glimmora,Mega Glimmora,Rock,Poison
 Greavard,,Ghost,
 Houndstone,,Ghost,
 Flamigo,,Flying,Fighting
@@ -1120,6 +1139,7 @@ Cetitan,,Ice,
 Veluza,,Water,Psychic
 Dondozo,,Water,
 Tatsugiri,,Dragon,Water
+Tatsugiri,Mega Tatsugiri,Dragon,Water
 Annihilape,,Fighting,Ghost
 Clodsire,,Poison,Ground
 Farigiraf,,Normal,Psychic
@@ -1140,6 +1160,7 @@ Iron Thorns,,Rock,Electric
 Frigibax,,Dragon,Ice
 Arctibax,,Dragon,Ice
 Baxcalibur,,Dragon,Ice
+Baxcalibur,Mega Baxcalibur,Dragon,Ice
 Gimmighoul,,Ghost,
 Gholdengo,,Steel,Ghost
 Wo-Chien,,Dark,Grass
