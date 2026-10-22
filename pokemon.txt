@@ -46,6 +46,7 @@ Nidorino,,Poison,
 Nidoking,,Poison,Ground
 Clefairy,,Fairy,
 Clefable,,Fairy,
+Clefable,Mega Clefable,Fairy,Flying
 Vulpix,,Fire,
 Vulpix,Alolan Vulpix,Ice,
 Ninetales,,Fire,
@@ -160,6 +161,7 @@ Goldeen,,Water,
 Seaking,,Water,
 Staryu,,Water,
 Starmie,,Water,Psychic
+Starmie,Mega Starmie,Water,Psychic
 Mr. Mime,,Psychic,Fairy
 Mr. Mime,Galarian Mr. Mime,Ice,Psychic
 Scyther,,Bug,Flying
@@ -206,6 +208,7 @@ Mew,,Psychic,
 Chikorita,,Grass,
 Bayleef,,Grass,
 Meganium,,Grass,
+Meganium,Mega Meganium,Grass,Fairy
 Cyndaquil,,Fire,
 Quilava,,Fire,
 Typhlosion,,Fire,
@@ -213,6 +216,7 @@ Typhlosion,Hisuian Typhlosion,Fire,Ghost
 Totodile,,Water,
 Croconaw,,Water,
 Feraligatr,,Water,
+Feraligatr,Mega Feraligatr,Water,Dragon
 Sentret,,Normal,
 Furret,,Normal,
 Hoothoot,,Normal,Flying
@@ -289,6 +293,7 @@ Octillery,,Water,
 Delibird,,Ice,Flying
 Mantine,,Water,Flying
 Skarmory,,Steel,Flying
+Skarmory,Mega Skarmory,Steel,Flying
 Houndour,,Dark,Fire
 Houndoom,,Dark,Fire
 Houndoom,Mega Houndoom,Dark,Fire
@@ -583,6 +588,7 @@ Gallade,Mega Gallade,Psychic,Fighting
 Probopass,,Rock,Steel
 Dusknoir,,Ghost,
 Froslass,,Ice,Ghost
+Froslass,Mega Froslass,Ice,Ghost
 Rotom,,Electric,Ghost
 Rotom,Rotom Heat,Electric,Fire
 Rotom,Rotom Wash,Electric,Water
@@ -615,6 +621,7 @@ Serperior,,Grass,
 Tepig,,Fire,
 Pignite,,Fire,Fighting
 Emboar,,Fire,Fighting
+Emboar,Mega Embroar,Fire,Fighting
 Oshawott,,Water,
 Dewott,,Water,
 Samurott,,Water,
@@ -646,6 +653,7 @@ Woobat,,Psychic,Flying
 Swoobat,,Psychic,Flying
 Drilbur,,Ground,
 Excadrill,,Ground,Steel
+Excadrill,Mega Excadrill,Ground,Steel
 Audino,,Normal,
 Audino,Mega Audino,Normal,Fairy
 Timburr,,Fighting,
@@ -682,6 +690,7 @@ Dwebble,,Bug,Rock
 Crustle,,Bug,Rock
 Scraggy,,Dark,Fighting
 Scrafty,,Dark,Fighting
+Scrafty,Mega Scrafty,Dark,Fighting
 Sigilyph,,Psychic,Flying
 Yamask,,Ghost,
 Yamask,Galarian Yamask,Ground,Ghost
@@ -729,11 +738,13 @@ Klinklang,,Steel,
 Tynamo,,Electric,
 Eelektrik,,Electric,
 Eelektross,,Electric,
+Eelektross,Mega Eelektross,Electric,
 Elgyem,,Psychic,
 Beheeyem,,Psychic,
 Litwick,,Ghost,Fire
 Lampent,,Ghost,Fire
 Chandelure,,Ghost,Fire
+Chandelure,Mega Chandelure,Ghost,Fire
 Axew,,Dragon,
 Fraxure,,Dragon,
 Haxorus,,Dragon,
@@ -801,8 +812,11 @@ Spewpa,,Bug,
 Vivillon,,Bug,Flying
 Litleo,,Fire,Normal
 Pyroar,,Fire,Normal
+Pyroar,Mega Pyroar,Fire,Normal
 Flabébé,,Fairy,
 Floette,,Fairy,
+Floette,,Fairy,
+Floette,Mega Floette,Fairy,
 Florges,,Fairy,
 Skiddo,,Grass,
 Gogoat,,Grass,
@@ -824,8 +838,10 @@ Malamar,,Dark,Psychic
 Malamar,Mega Malamar,Dark,Psychic
 Binacle,,Rock,Water
 Barbaracle,,Rock,Water
+Barbaracle,Mega Barbaracle,Rock,Fighting
 Skrelp,,Poison,Water
 Dragalge,,Poison,Dragon
+Dragalge,Mega Dragalge,Poison,Dragon
 Clauncher,,Water,
 Clawitzer,,Water,
 Helioptile,,Electric,Normal
@@ -857,6 +873,7 @@ Noivern,,Flying,Dragon
 Xerneas,,Fairy,
 Yveltal,,Dark,Flying
 Zygarde,,Dragon,Ground
+Zygarde,Mega Zygarde,Dragon,Ground
 Diancie,,Rock,Fairy
 Diancie,Mega Diancie,Rock,Fairy
 Hoopa,Hoopa Confined,Psychic,Ghost
@@ -927,6 +944,7 @@ Togedemaru,,Electric,Steel
 Mimikyu,,Ghost,Fairy
 Bruxish,,Water,Psychic
 Drampa,,Normal,Dragon
+Drampa,Mega Drampa,Normal,Dragon
 Dhelmise,,Ghost,Grass
 Jangmo-o,,Dragon,
 Hakamo-o,,Dragon,Fighting
@@ -1022,6 +1040,7 @@ Runerigus,,Ground,Ghost
 Milcery,,Fairy,
 Alcremie,,Fairy,
 Falinks,,Fighting,
+Falinks,Mega Falinks,Fighting,
 Pincurchin,,Electric,
 Snom,,Ice,Bug
 Frosmoth,,Ice,Bug
